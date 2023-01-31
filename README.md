@@ -1,5 +1,5 @@
 ### Hi there 👋 ✨
-![Snake animation](https://github.com/{{EstrellaPolaris}}/{{EstrellaPolaris}}/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/EstrellaPolaris/EstrellaPolaris/blob/output/github-contribution-grid-snake.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
