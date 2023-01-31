@@ -10,7 +10,7 @@
 ![NodeJS](https://img.shields.io/badge/-nodejs-20232a?style=for-the-badge&logo=node.js)
 ![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass)
 ![Less](https://img.shields.io/badge/less-20232a?style=for-the-badge&logo=less&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-20232a?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Technologies:
 ![Postgres](https://img.shields.io/badge/postgres-20232a?style=for-the-badge&logo=postgresql&logoColor=white)
