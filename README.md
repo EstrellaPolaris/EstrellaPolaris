@@ -9,7 +9,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-20232a?style=for-the-badge&logo=Redux)
 ![NodeJS](https://img.shields.io/badge/-nodejs-20232a?style=for-the-badge&logo=node.js)
 ![SASS](https://img.shields.io/badge/-SASS-20232a?style=for-the-badge&logo=sass)
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+![Less](https://img.shields.io/badge/less-20232a?style=for-the-badge&logo=less&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Technologies:
