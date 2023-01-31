@@ -13,7 +13,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Technologies:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-20232a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-20232a?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/git-20232a?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
