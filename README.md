@@ -1,10 +1,10 @@
 ### Hi there, I'm Maria  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-- ✨ I'm currently working on All-in-one [cashflow](https://github.com/Fucktorial/FinFront) SPA in an Open Source Project, where I'm responsible for the entire Frontend part.
-- 🌱 I’m currently learning Python and other cool stuff!
+- ✨ I'm currently working on All-in-one [Cashflow](https://github.com/Fucktorial/FinFront) SPA in an Open Source Project, where I'm responsible for the entire Frontend part.
+- 🌱 I’m learning Python and other cool stuff!
 - 👯 I'm looking to collaborate on frontend or full stack web apps
 - 🤔 I’m looking for help with Python and Postgresql
-- 💬 Ask me about Typescript React and and state management
+- 💬 Ask me about Typescript React and state management
 
 ### My stack: 
 ![HTML](https://img.shields.io/badge/-HTML-20232a?style=for-the-badge&logo=html5)
