@@ -1,4 +1,4 @@
-### Hi there 👋 ✨
+### Hi there, I'm Maria 👋 ✨
 
 ### My stack: 
 ![HTML](https://img.shields.io/badge/-HTML-20232a?style=for-the-badge&logo=html5)
@@ -35,3 +35,15 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Contact Me 📌
+ 
+<div> 
+  <a href="https://instagram.com/iam_maria_s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: mshcherbinina73@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maria-shcherbinina/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <h1>Snake contributions animation 🤩</h1> 
+ 
+  ![Snake animation](https://github.com/rennand/rennand/blob/output/github-contribution-grid-snake.svg)
+</div>
