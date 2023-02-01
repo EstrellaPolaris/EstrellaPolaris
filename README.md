@@ -1,6 +1,6 @@
 ### Hi there, I'm Maria  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-- ✨ I'm currently working on a Open Source Project in React
+- ✨ I'm currently working on All-in-one [cashflow](https://github.com/Fucktorial/FinFront) SPA in an Open Source Project, where I'm responsible for the entire Frontend part.
 - 🌱 I’m currently learning Python and other cool stuff!
 - 👯 I'm looking to collaborate on frontend or full stack web apps
 - 🤔 I’m looking for help with Python and Postgresql
