@@ -28,7 +28,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-20232a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-20232a?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/git-20232a?style=for-the-badge&logo=git)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-20232a?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-20232a?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-20232a?style=for-the-badge&logo=Figma)
 ![Netlify](https://img.shields.io/badge/netlify-20232a?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
