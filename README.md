@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/Docker-20232a?style=for-the-badge&logo=Docker)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20232a?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-20232a?style=for-the-badge&logo=nginx&logoColor=white)
-![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-20232a?style=for-the-badge&logo=mocha&logoColor=white)
 
 ### Contact Me 📌
  
